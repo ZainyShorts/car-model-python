@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pyodide": "^0.25.0",
+    "python-shell": "^5.0.0"
+  }
+}
